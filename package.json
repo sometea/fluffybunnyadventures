@@ -1,0 +1,22 @@
+{
+  "name": "fluffybunnyadventures",
+  "version": "1.0.0",
+  "description": "The Fluffy Bunny Adventures blog, 11ty version",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "keywords": [
+    "fluffy",
+    "bunny",
+    "adventures",
+    "blog",
+    "travel"
+  ],
+  "author": "David Dasenbrook",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1"
+  }
+}
