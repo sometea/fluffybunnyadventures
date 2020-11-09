@@ -1,0 +1,3 @@
+{
+    "permalink": "ads/{{ page.fileSlug }}/index.html"
+}

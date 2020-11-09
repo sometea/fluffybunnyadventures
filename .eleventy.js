@@ -1,4 +1,9 @@
 module.exports = function (eleventyConfig) {
+  eleventyConfig.addWatchTarget("./_tmp/style.css");
+  eleventyConfig.addPassthroughCopy({ "./_tmp/style.css": "./style.css" });
+
+  eleventyConfig.addPassthroughCopy("templates/favicon.ico");
+
   eleventyConfig.addCollection("posts", function (collectionApi) {
       return collectionApi.getFilteredByGlob("templates/content/posts/*.md");
   });
