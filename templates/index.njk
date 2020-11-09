@@ -4,14 +4,6 @@ layout: layout.njk
 
 {% from "card.njk" import card %}
 
-<h1>{{ title }}</h1>
-
-<div>
-{%- for page in collections.pages -%}
-<a href="{{ page.url }}">{{ page.data.title }}</a>
-{%- endfor -%}
-</div>
-
 <ul>
 {%- for post in collections.posts -%}
 <li>{{ card(post.data.title, post.date, post.data.teaser, post.data.image, post.url, '') }}

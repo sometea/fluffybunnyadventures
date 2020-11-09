@@ -3,12 +3,12 @@ module.exports = {
       removeDeprecatedGapUtilities: true,
       purgeLayersByDefault: true,
     },
-    // purge: {
-    //   content: ["_site/**/*.html"],
-    //   options: {
-    //     whitelist: [],
-    //   },
-    // },
+    purge: {
+      content: ["_site/**/*.html"],
+      options: {
+        whitelist: [],
+      },
+    },
     // theme: {
     //   extend: {
     //     colors: {
@@ -17,5 +17,7 @@ module.exports = {
     //   },
     // },
     variants: {},
-    plugins: [],
+    plugins: [
+      require('@tailwindcss/typography'),
+    ],
   };
