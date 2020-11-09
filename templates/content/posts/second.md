@@ -1,5 +1,4 @@
 ---
-layout: layout.njk
 title: Venice
 date: 2020-09-13T09:50:28.126Z
 draft: false

@@ -1,5 +1,4 @@
 ---
-layout: layout.njk
 title: Vienna
 date: 2020-09-13T09:49:55.548Z
 draft: false
