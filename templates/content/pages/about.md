@@ -5,12 +5,12 @@ author: David
 ---
 This site is the fluffy bunny adventures blog. It follows the fluffy bunny adventures through Vienna and Italy.
 
-`Responsible`
+Responsible:
 
-`David Dasenbrook`
+David Dasenbrook
 
-`Balanstr. 130`
+Balanstr. 130
 
-`81539 München`
+81539 München
 
-`info at beamtime dot net.`
+info at beamtime dot net.
