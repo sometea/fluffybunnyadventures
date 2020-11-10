@@ -4,6 +4,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("templates/favicon.ico");
   eleventyConfig.addPassthroughCopy("templates/images");
+  eleventyConfig.addPassthroughCopy("templates/admin");
 
   eleventyConfig.addCollection("posts", function (collectionApi) {
       return collectionApi.getFilteredByGlob("templates/content/posts/*.md").reverse();
