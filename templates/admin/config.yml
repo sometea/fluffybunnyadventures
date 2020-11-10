@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: sometea/fluffybunnyadventures
-  branch: master
+  branch: main
   base_url: https://us-central1-ontheground-staging.cloudfunctions.net
   auth_endpoint: /oauth/auth
 public_folder: "/"
