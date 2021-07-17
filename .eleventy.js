@@ -7,7 +7,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("templates/admin");
 
   eleventyConfig.addCollection("posts", function (collectionApi) {
-      return collectionApi.getFilteredByGlob("templates/content/posts/*.md").reverse();
+      return collectionApi
+        .getFilteredByGlob("templates/content/posts/*.md")
+        .filter(item => !item.data.draft)
+        .reverse();
   });
   eleventyConfig.addCollection("pages", function (collectionApi) {
     return collectionApi.getFilteredByGlob("templates/content/pages/*.md");
