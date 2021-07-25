@@ -7,10 +7,7 @@ This site is the fluffy bunny adventures blog. It follows the fluffy bunny adven
 
 Responsible:
 
-David Dasenbrook
-
-Balanstr. 130
-
-81539 München
-
+David Dasenbrook\
+Sachsenring 67\
+50677 Köln\
 info at beamtime dot net.
