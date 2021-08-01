@@ -4,7 +4,7 @@ date: 2021-07-17T09:25:40.397Z
 draft: false
 author: fluffy bunnies
 teaser: Please don't go there.
-image: https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_797/v1627225220/IMG_20210704_090836_nnl4wb.jpg
+image: https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,h_1002/c_crop,g_center,h_3968,w_2976,y_0/v1627225220/IMG_20210704_090836_nnl4wb.jpg
 ---
 Dear world-wide web,\
 we send you these bits\
