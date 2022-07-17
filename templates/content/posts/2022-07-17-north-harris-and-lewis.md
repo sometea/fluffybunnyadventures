@@ -6,7 +6,7 @@ author: fluffy bunnies
 teaser: Where does Lewis start and Harris end?
 image: https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_820/v1658053231/IMG_20220702_090205_vbdlmu.jpg
 ---
-After being so windy, rainy, and full of sheep, the world around us at one point just turned quiet. Gray sky, gray water with a hint of blue.
+
 
 ![view of a beautiful bay on the way towards Tarbert](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_839/v1658053224/IMG_20220702_093858_tgjgid.jpg)
 
@@ -18,7 +18,7 @@ Even though it still rained from time to time, there was no shortage of pretty s
 
 ![view of a lochan](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_927/v1658053242/IMG_20220702_114937_u4ycns.jpg)
 
-On our way to Tarbert, we had several beautiful views of bays and fjords.
+After wind, rain and sheep, the world around us turned quiet. Gray sky and gray water with a hint of blue.
 
 ![view of the coast on the way to Tarbert](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_879/v1658053251/IMG_20220702_090755180_ki6eyf.jpg)
 
