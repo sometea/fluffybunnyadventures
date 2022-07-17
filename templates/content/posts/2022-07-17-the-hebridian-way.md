@@ -51,8 +51,12 @@ Sgarasta beach was covered in shells of all colors!
 
 ![Our tent between Scarasta and Seilebost](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_833/v1658053193/IMG_20220630_171617772_yko4sr.jpg)
 
+The night's raindrops on grass were like a string of pearls. 
+
 ![dew and rain drops in the morning](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_879/v1658053214/IMG_20220701_090804440_fxbknu.jpg)
 
 ![hiking somewhere](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_866/v1658053196/IMG_20220701_170742_n5babf.jpg)
+
+
 
 ![view of Seilebost beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_833/v1658053230/IMG_20220701_131816451_szxxoj.jpg)
