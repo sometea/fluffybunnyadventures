@@ -6,6 +6,12 @@ author: fluffy bunnies
 teaser: Hiking north
 image: https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_685/v1658053124/IMG_20220629_112646_pt55pl.jpg
 ---
+![South Uist beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_800/v1658053079/IMG_20220628_095808_dfnvub.jpg)
+
+
+
+![Reflection](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_800/v1658053100/IMG_20220628_144958_ohowrt.jpg)
+
 Hebridian bog!\
 Hebridian rain!\
 What joy it is to be dry again.
