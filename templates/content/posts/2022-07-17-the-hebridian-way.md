@@ -33,7 +33,7 @@ Will meet you on the Hebridian way.
 
 ![Berneray west beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_820/v1658053128/IMG_20220629_161029_dn96hc.jpg)
 
-Slimy transparent creatures had washed up on the shore.
+Slimy transparent creatures had washed up on the shore. Other wildlife we saw were an otter, a seal, and orca whales.
 
 ![strange jellyfish stuff](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_820/v1658053129/IMG_20220629_155758_lpw3m5.jpg)
 
