@@ -6,7 +6,7 @@ author: fluffy-bunny
 teaser: The end is near.
 image: https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_800/v1658053226/IMG_20220701_111609921_rsgd8b.jpg
 ---
-01.07.2022, 11:00 We have made our way through the Uists and the South of Harris without confrontation. But the sheep are tracking us.
+01.07.2022, 11:00 We have made our way through the Uists and the South of Harris without confrontation. But the sheep sightings are becoming more frequent. They may be tracking us.
 
 ![](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_800/v1658053204/IMG_20220630_110100364.MP_rz17l6.jpg)
 
