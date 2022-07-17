@@ -3,7 +3,7 @@ title: North Harris and Lewis
 date: 2022-07-17T11:50:47.448Z
 draft: false
 author: fluffy bunnies
-teaser: The Cry of the Gull
+teaser: The Cry of the Gull.
 image: https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_820/v1658053231/IMG_20220702_090205_vbdlmu.jpg
 ---
 ![view of a beautiful bay on the way towards Tarbert](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_839/v1658053224/IMG_20220702_093858_tgjgid.jpg)
