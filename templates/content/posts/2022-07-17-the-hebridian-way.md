@@ -8,7 +8,7 @@ image: https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_685/v16580531
 ---
 ![South Uist beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_800/v1658053079/IMG_20220628_095808_dfnvub.jpg)
 
-![Reflection](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_800/v1658053100/IMG_20220628_144958_ohowrt.jpg)
+![Reflection](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,h_800/v1658053100/IMG_20220628_144958_ohowrt.jpg)
 
 Hebridian bog!\
 Hebridian rain!\
@@ -32,6 +32,8 @@ Will meet you on the Hebridian way.
 ![symmetric beach scene on Berneray west beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_733/v1658053125/IMG_20220629_161021_w6s6wv.jpg)
 
 ![Berneray west beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_820/v1658053128/IMG_20220629_161029_dn96hc.jpg)
+
+Slimy transparent creatures had washed up on the shore.
 
 ![strange jellyfish stuff](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_820/v1658053129/IMG_20220629_155758_lpw3m5.jpg)
 
