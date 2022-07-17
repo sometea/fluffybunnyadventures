@@ -41,6 +41,8 @@ Slimy transparent creatures had washed up on the shore. Other wildlife we saw we
 
 ![Waiting for the ferry to Harris](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_852/v1658053152/IMG_20220630_080158159_v9ip9q.jpg)
 
+Sgarasta beach was covered in shells of all colors!
+
 ![Pretty shells on Scarasta beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_901/v1658053150/IMG_20220630_141957857_fjpt1h.jpg)
 
 ![Wow! 85 per cent!](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_678/v1658053172/IMG_20220701_192728_sksacf.jpg)
