@@ -8,8 +8,6 @@ image: https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_685/v16580531
 ---
 ![South Uist beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_800/v1658053079/IMG_20220628_095808_dfnvub.jpg)
 
-
-
 ![Reflection](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_800/v1658053100/IMG_20220628_144958_ohowrt.jpg)
 
 Hebridian bog!\
@@ -18,9 +16,9 @@ What joy it is to be dry again.
 
 Glen, moor and sea,\
 A sandy bay,\
-A gushing wind and a rare sunray,\
 A flock of sheep,\
 With spots of grey,\
+A gushing wind and a rare sunray,\
 Will meet you on the Hebridian way.
 
 ![A lochan on the hike towards Berneray](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_820/v1658053123/IMG_20220629_120449_hms0p4.jpg)
