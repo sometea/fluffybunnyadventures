@@ -55,4 +55,6 @@ Sgarasta beach was covered in shells of all colors!
 
 ![hiking somewhere](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_866/v1658053196/IMG_20220701_170742_n5babf.jpg)
 
+
+
 ![view of Seilebost beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_833/v1658053230/IMG_20220701_131816451_szxxoj.jpg)
