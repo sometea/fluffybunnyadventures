@@ -36,3 +36,15 @@ Will meet you on the Hebridian way.
 ![Footprints on the beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_583/v1658053162/IMG_20220629_190248_larp6f.jpg)
 
 ![Wow! 85 per cent!](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_678/v1658053172/IMG_20220701_192728_sksacf.jpg)
+
+![boggy landscape](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_617/v1658053191/IMG_20220701_170736_cezlaa.jpg)
+
+![Our tent between Scarasta and Seilebost](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_833/v1658053193/IMG_20220630_171617772_yko4sr.jpg)
+
+![Otters crossing](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_879/v1658053192/IMG_20220629_123745717.MP_deyrnn.jpg)
+
+![dew and rain drops in the morning](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_879/v1658053214/IMG_20220701_090804440_fxbknu.jpg)
+
+![view of Seilebost beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_820/v1658053224/IMG_20220702_093858_tgjgid.jpg)
+
+![another view of Seilebost beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_833/v1658053230/IMG_20220701_131816451_szxxoj.jpg)
