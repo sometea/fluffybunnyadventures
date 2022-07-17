@@ -4,10 +4,8 @@ date: 2022-07-17T09:36:58.101Z
 draft: true
 author: fluffy bunnies
 teaser: Hiking north
-image: https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_879/v1658050939/PXL_20220629_092245632_my4703.jpg
+image: https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_685/v1658053124/IMG_20220629_112646_pt55pl.jpg
 ---
-After the next day's hike, due to the unfavorable weather conditions, we moved our hostel booking to one day in advance and called a taxi to get there ahead of schedule.
-
 Hebridian bog!\
 Hebridian rain!\
 What joy it is to be dry again.
@@ -19,8 +17,22 @@ A flock of sheep,\
 White, black and gray,\
 Will meet you on the Hebridian way.
 
-On the next day the bus dropped us off a crossing where another beautiful section of the Hebridian way starts. We hiked for a about 4 hours through a pretty but also somewhat boggy area across a hill with a nice view across the surrounding lochs and the coast. We then continued on the tarmac road to the island of Berneray. We enjoyed a relaxing and sunny afternoon at the beach there before pitching our tent. The cows soon lost interest in us.
+![A lochan on the hike towards Berneray](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_820/v1658053123/IMG_20220629_120449_hms0p4.jpg)
 
-The next day, we woke up early to catch the 9:30 ferry to Leverburgh on the island of Harris. We stocked up in the local shop before heading off on another beautiful section of the hiking path towards Scarasta beach. Having arrived there, it was only 3pm. We were a little worried about finding a better camping spot than the beach, but ended up walking another 5km up the glen to pitch a tent with a nice view of the coast.
+![A view from the top](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_775/v1658053125/IMG_20220629_120721_k5nwqn.jpg)
 
-After an ok night's sleep we hiked onward towards our next destination, Tarbert, which we reached after another two days' hike. First, we had to refill our water bottles, so we knocked on the door of a random house.
+![symmetric beach scene on Berneray west beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_733/v1658053125/IMG_20220629_161021_w6s6wv.jpg)
+
+![Berneray west beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_820/v1658053128/IMG_20220629_161029_dn96hc.jpg)
+
+![strange jellyfish stuff](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_820/v1658053129/IMG_20220629_155758_lpw3m5.jpg)
+
+![Pretty shells on Scarasta beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_901/v1658053150/IMG_20220630_141957857_fjpt1h.jpg)
+
+![Waiting for the ferry to Harris](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_852/v1658053152/IMG_20220630_080158159_v9ip9q.jpg)
+
+![A view of Berneray](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_787/v1658053156/IMG_20220629_104847992_nyjl3l.jpg)
+
+![Footprints on the beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_583/v1658053162/IMG_20220629_190248_larp6f.jpg)
+
+![Wow! 85 per cent!](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_678/v1658053172/IMG_20220701_192728_sksacf.jpg)
