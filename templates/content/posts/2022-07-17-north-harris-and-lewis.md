@@ -6,7 +6,7 @@ author: fluffy bunnies
 teaser: Where does Lewis start and Harris end?
 image: https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_806/v1658053226/IMG_20220701_111609921_rsgd8b.jpg
 ---
-We were now embarking on what some have called "the finest section of the Hebridian Way", however, it was guarded by a fierce sheep.
+We were now embarking on "the finest section of the Hebridian Way". It was guarded by a fierce sheep.
 
 ![a sheep guarding the finest section of the Hebridian way](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_945/v1658053204/IMG_20220630_110100364.MP_rz17l6.jpg)
 
