@@ -15,11 +15,11 @@ Hebridian rain!\
 What joy it is to be dry again.
 
 Glen, moor and sea,\
-A sandy bay,\
-A flock of sheep,\
-With spots of grey,\
-A gushing wind and a rare sunray,\
-Will meet you on the Hebridian way.
+a sandy bay,\
+a flock of sheep\
+with spots of grey,\
+a gushing wind and a rare sunray,\
+will meet you on the Hebridian way.
 
 ![A lochan on the hike towards Berneray](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_820/v1658053123/IMG_20220629_120449_hms0p4.jpg)
 
@@ -54,7 +54,5 @@ Sgarasta beach was covered in shells of all colors!
 ![dew and rain drops in the morning](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_879/v1658053214/IMG_20220701_090804440_fxbknu.jpg)
 
 ![hiking somewhere](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_866/v1658053196/IMG_20220701_170742_n5babf.jpg)
-
-
 
 ![view of Seilebost beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_833/v1658053230/IMG_20220701_131816451_szxxoj.jpg)
