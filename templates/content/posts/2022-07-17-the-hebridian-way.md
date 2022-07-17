@@ -21,27 +21,27 @@ Will meet you on the Hebridian way.
 
 ![A view from the top](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_775/v1658053125/IMG_20220629_120721_k5nwqn.jpg)
 
+![A view of Berneray](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_787/v1658053156/IMG_20220629_104847992_nyjl3l.jpg)
+
+![Otters crossing](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_879/v1658053192/IMG_20220629_123745717.MP_deyrnn.jpg)
+
 ![symmetric beach scene on Berneray west beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_733/v1658053125/IMG_20220629_161021_w6s6wv.jpg)
 
 ![Berneray west beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_820/v1658053128/IMG_20220629_161029_dn96hc.jpg)
 
 ![strange jellyfish stuff](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_820/v1658053129/IMG_20220629_155758_lpw3m5.jpg)
 
-![Pretty shells on Scarasta beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_901/v1658053150/IMG_20220630_141957857_fjpt1h.jpg)
+![Footprints on the beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_583/v1658053162/IMG_20220629_190248_larp6f.jpg)
 
 ![Waiting for the ferry to Harris](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_852/v1658053152/IMG_20220630_080158159_v9ip9q.jpg)
 
-![A view of Berneray](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_787/v1658053156/IMG_20220629_104847992_nyjl3l.jpg)
-
-![Footprints on the beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_583/v1658053162/IMG_20220629_190248_larp6f.jpg)
+![Pretty shells on Scarasta beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_901/v1658053150/IMG_20220630_141957857_fjpt1h.jpg)
 
 ![Wow! 85 per cent!](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_678/v1658053172/IMG_20220701_192728_sksacf.jpg)
 
 ![boggy landscape](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_617/v1658053191/IMG_20220701_170736_cezlaa.jpg)
 
 ![Our tent between Scarasta and Seilebost](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_833/v1658053193/IMG_20220630_171617772_yko4sr.jpg)
-
-![Otters crossing](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_879/v1658053192/IMG_20220629_123745717.MP_deyrnn.jpg)
 
 ![dew and rain drops in the morning](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_879/v1658053214/IMG_20220701_090804440_fxbknu.jpg)
 
