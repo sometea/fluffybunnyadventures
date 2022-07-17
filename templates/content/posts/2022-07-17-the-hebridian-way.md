@@ -45,6 +45,6 @@ Will meet you on the Hebridian way.
 
 ![dew and rain drops in the morning](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_879/v1658053214/IMG_20220701_090804440_fxbknu.jpg)
 
-![view of Seilebost beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_820/v1658053224/IMG_20220702_093858_tgjgid.jpg)
+![hiking somewhere](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_866/v1658053196/IMG_20220701_170742_n5babf.jpg)
 
-![another view of Seilebost beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_833/v1658053230/IMG_20220701_131816451_szxxoj.jpg)
+![view of Seilebost beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_833/v1658053230/IMG_20220701_131816451_szxxoj.jpg)
