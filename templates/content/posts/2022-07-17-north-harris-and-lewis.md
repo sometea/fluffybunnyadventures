@@ -10,7 +10,7 @@ image: https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_820/v16580532
 
 ![view of a beautiful bay on the way towards Tarbert](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_839/v1658053224/IMG_20220702_093858_tgjgid.jpg)
 
-We also discovered several old abandoned stone houses along the way. This one must have been haunted in ancient times. The light turned gloomy to underline the magic atmosphere when we looked at it.
+We came across the ruins of old stone houses along the way. The light turned gloomy.
 
 ![gloomy house](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_866/v1658053233/IMG_20220702_094257_bskreu.jpg)
 
