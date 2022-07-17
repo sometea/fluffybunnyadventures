@@ -57,6 +57,6 @@ The night's raindrops on grass were like strings of pearls.
 
 ![hiking somewhere](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_866/v1658053196/IMG_20220701_170742_n5babf.jpg)
 
-Seilebost is one of the beaches on the way.
+The swampy terrain has some resemblance with Lapland. The beaches on the other hand are something entirely different. Here, Seilebost.
 
 ![view of Seilebost beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_833/v1658053230/IMG_20220701_131816451_szxxoj.jpg)
