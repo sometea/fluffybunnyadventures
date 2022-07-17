@@ -3,7 +3,7 @@ title: The Hebridian Way
 date: 2022-07-17T09:55:58.101Z
 draft: false
 author: fluffy bunnies
-teaser: Hiking north, with the wind at our backs
+teaser: Hiking north, with the wind at our backs.
 image: https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_685/v1658053124/IMG_20220629_112646_pt55pl.jpg
 ---
 ![South Uist beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_800/v1658053079/IMG_20220628_095808_dfnvub.jpg)
