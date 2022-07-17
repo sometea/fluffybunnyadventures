@@ -18,7 +18,7 @@ Glen, moor and sea,\
 a sandy bay,\
 a flock of sheep\
 with spots of grey,\
-a gushing wind and a rare sunray,\
+a gushing wind and a rare sunray\
 will meet you on the Hebridian way.
 
 ![A lochan on the hike towards Berneray](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_820/v1658053123/IMG_20220629_120449_hms0p4.jpg)
