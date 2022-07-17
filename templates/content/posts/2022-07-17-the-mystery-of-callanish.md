@@ -12,6 +12,10 @@ The Isle of Lewis is home to the ancient Callanish stone cirle. Dating back 5000
 
 ![](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_800/v1658053256/IMG_20220704_140925687_vwcuoc.jpg)
 
+We were greeted by a friendly hobbit who invited us to spend the night at their hobbit hole.
+
 ![](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_800/v1658053245/IMG_20220705_130350911.MP_fukpst.jpg)
+
+On the ferry from Stornoway to Ullapool on the main island, we were already plotting our next expedition.
 
 ![](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_800/v1658053253/IMG_20220705_191544159_pdoepn.jpg)
