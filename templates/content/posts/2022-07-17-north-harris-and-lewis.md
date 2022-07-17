@@ -18,4 +18,12 @@ The rain stopped from time to time. In raincoats and wet shoes, we admired the r
 
 After wind, rain and sheep, the world around us turned quiet. Gray sky and gray water with a hint of blue.
 
+Seagull oh,
+
+what do thou say?
+
+Wind brings thy cry
+
+from yonder bay.
+
 ![view of the coast on the way to Tarbert](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_879/v1658053251/IMG_20220702_090755180_ki6eyf.jpg)
