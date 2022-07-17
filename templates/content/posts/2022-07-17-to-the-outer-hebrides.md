@@ -6,7 +6,7 @@ author: fluffy bunnies
 teaser: Glasgow, the home of Glaswegians.
 image: https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_781/v1658053043/IMG_20220626_112304273_kgedeg.jpg
 ---
-![Beach South Uist](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_820/v1658053079/IMG_20220628_095808_dfnvub.jpg)
+
 
 ![Walking on the beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_787/v1658053079/IMG_20220628_085703_lamzo0.jpg)
 
@@ -17,3 +17,7 @@ image: https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_781/v16580530
 ![yummy porridge with fruit at the hostel](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_696/v1658053092/IMG_20220627_074442_lr9mqd.jpg)
 
 ![hike to Vatersay](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_879/v1658053092/IMG_20220627_102028_ap1qd6.jpg)
+
+![Beach in South Uist](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_617/v1658053100/IMG_20220628_144958_ohowrt.jpg)
+
+![Hiking through the darkness of South Uist](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_583/v1658053100/IMG_20220628_154232_kxttxa.jpg)
