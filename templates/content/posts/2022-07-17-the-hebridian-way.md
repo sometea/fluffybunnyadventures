@@ -23,3 +23,4 @@ On the next day the bus dropped us off a crossing where another beautiful sectio
 
 The next day, we woke up early to catch the 9:30 ferry to Leverburgh on the island of Harris. We stocked up in the local shop before heading off on another beautiful section of the hiking path towards Scarasta beach. Having arrived there, it was only 3pm. We were a little worried about finding a better camping spot than the beach, but ended up walking another 5km up the glen to pitch a tent with a nice view of the coast.
 
+After an ok night's sleep we hiked onward towards our next destination, Tarbert, which we reached after another two days' hike. First, we had to refill our water bottles, so we knocked on the door of a random house.
