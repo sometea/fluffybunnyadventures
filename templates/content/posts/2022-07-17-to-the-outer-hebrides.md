@@ -4,14 +4,16 @@ date: 2022-07-17T09:10:19.315Z
 draft: true
 author: fluffy bunnies
 teaser: Glasgow, the home of Glaswegians.
-image: https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_879/v1658049421/PXL_20220626_171138038.MP_ckutrh.jpg
+image: https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_781/v1658053043/IMG_20220626_112304273_kgedeg.jpg
 ---
-We left Cologne around 9am to take the train to Brussels, then the Eurostar through the channel tunnel to London, then the train to Glasgow. This works fine if one allows for enough buffer time at the Eurostar check-in (there is a security gate and a passport control, and sometimes there is a bit of a queue).
+![Beach South Uist](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_820/v1658053079/IMG_20220628_095808_dfnvub.jpg)
 
-Exiting at Glasgow Central, we instantly felt comfortable in this cozy but interesting city. We were greeted by Christoph waving from his window.
+![Walking on the beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_787/v1658053079/IMG_20220628_085703_lamzo0.jpg)
 
-On the next day, we boarded they ferry in Oban towards Castlebay on the island of Barra, our first stop in the Outer Hebrides. We slept in a hostel that was also inhabited by a friendly white cat and met a fellow Hebridean Way hiker.
+![View from Castlebay](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_787/v1658053086/IMG_20220626_200112253_tdpx12.jpg)
 
-Next day: Quite heavy rain, but we nevertheless started our hike south to the peninsula of Vatersay. The weather quickly cleared up and we had lunch on a beautiful beach (bread and a vegan chives-spread we picked up from the Coop on the way there) before getting on the bus onward towards the next ferry at Ardhmor. 
+![Vatersay beach](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_820/v1658053089/IMG_20220627_114729_kjt98a.jpg)
 
-No one wanted to sell us ferry tickets so we just took the ferry for free and after another bus ride arrived at the west beach of the island of South Uist. Towards the evening, it started getting very windy, so we had to relocate our tent at some point to a more protected spot as it was getting very loud inside.
+![yummy porridge with fruit at the hostel](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_696/v1658053092/IMG_20220627_074442_lr9mqd.jpg)
+
+![hike to Vatersay](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_879/v1658053092/IMG_20220627_102028_ap1qd6.jpg)
