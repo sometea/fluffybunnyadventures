@@ -1,5 +1,5 @@
 ---
-title: The Hebridian Way
+title: The Hebridean Way
 date: 2022-07-17T09:55:58.101Z
 draft: false
 author: fluffy bunnies
@@ -10,8 +10,8 @@ image: https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_685/v16580531
 
 ![Reflection](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,h_800/v1658053100/IMG_20220628_144958_ohowrt.jpg)
 
-Hebridian bog!\
-Hebridian rain!\
+Hebridean bog!\
+Hebridean rain!\
 What joy it is to be dry again.
 
 Glen, moor and sea,\
@@ -19,7 +19,7 @@ a sandy bay,\
 a flock of sheep\
 with spots of grey,\
 a gushing wind and a rare sunray\
-will meet you on the Hebridian way.
+will meet you on the Hebridean way.
 
 ![A lochan on the hike towards Berneray](https://res.cloudinary.com/dgnntwrsy/image/upload/c_scale,w_820/v1658053123/IMG_20220629_120449_hms0p4.jpg)
 
