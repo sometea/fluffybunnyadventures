@@ -1,0 +1,9 @@
+---
+pagination:
+    data: documents
+    size: 1
+    alias: remotepost
+permalink: "remoteposts/{{ remotepost.title | slug }}/"
+---
+
+{{ remotepost.body | safe }}

@@ -2,3 +2,4 @@ _site
 _tmp
 node_modules
 .firebase
+.cache
